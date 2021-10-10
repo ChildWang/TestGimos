@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 962bbfa82458b5f45a840436e1b0eb79
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: afj_dianxian_01
+    100002: afj_huisejinshu_01
+    100004: afj_huisejinshu_03
+    100006: baisejinshu_gg_01
+    100008: fzc_afj_yilou
+    100010: //RootNode
+    100012: heisejinshu_gg_04
+    100014: huisejinshu_gg_02
+    100016: huisejinshu_gg_03
+    100018: jinggaotubiao_gg_01
+    100020: jinggaotubiao_gg_02
+    100022: pfi_heise059
+    100024: zhuozimuwen_gg_01
+    100026: fzc_anfenji_luoji
+    100028: heisejinshu_gg_01
+    100030: fzc_anfenji
+    400000: afj_dianxian_01
+    400002: afj_huisejinshu_01
+    400004: afj_huisejinshu_03
+    400006: baisejinshu_gg_01
+    400008: fzc_afj_yilou
+    400010: //RootNode
+    400012: heisejinshu_gg_04
+    400014: huisejinshu_gg_02
+    400016: huisejinshu_gg_03
+    400018: jinggaotubiao_gg_01
+    400020: jinggaotubiao_gg_02
+    400022: pfi_heise059
+    400024: zhuozimuwen_gg_01
+    400026: fzc_anfenji_luoji
+    400028: heisejinshu_gg_01
+    400030: fzc_anfenji
+    2300000: afj_dianxian_01
+    2300002: afj_huisejinshu_01
+    2300004: afj_huisejinshu_03
+    2300006: baisejinshu_gg_01
+    2300008: fzc_afj_yilou
+    2300010: heisejinshu_gg_04
+    2300012: huisejinshu_gg_02
+    2300014: huisejinshu_gg_03
+    2300016: jinggaotubiao_gg_01
+    2300018: jinggaotubiao_gg_02
+    2300020: pfi_heise059
+    2300022: zhuozimuwen_gg_01
+    2300024: heisejinshu_gg_01
+    3300000: afj_dianxian_01
+    3300002: afj_huisejinshu_01
+    3300004: afj_huisejinshu_03
+    3300006: baisejinshu_gg_01
+    3300008: fzc_afj_yilou
+    3300010: heisejinshu_gg_04
+    3300012: huisejinshu_gg_02
+    3300014: huisejinshu_gg_03
+    3300016: jinggaotubiao_gg_01
+    3300018: jinggaotubiao_gg_02
+    3300020: pfi_heise059
+    3300022: zhuozimuwen_gg_01
+    3300024: heisejinshu_gg_01
+    4300000: afj_huisejinshu_01
+    4300002: jinggaotubiao_gg_01
+    4300004: huisejinshu_gg_02
+    4300006: afj_huisejinshu_03
+    4300008: pfi_heise059
+    4300010: huisejinshu_gg_03
+    4300012: afj_dianxian_01
+    4300014: heisejinshu_gg_04
+    4300016: baisejinshu_gg_01
+    4300018: jinggaotubiao_gg_02
+    4300020: fzc_afj_yilou
+    4300022: zhuozimuwen_gg_01
+    4300024: heisejinshu_gg_01
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

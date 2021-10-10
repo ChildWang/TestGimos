@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 41e8d6a370cd8524e9e19bc6e8455101
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ______050
+    100002: ______051
+    100004: ______054_002
+    100006: dgntt_lansejimian_01
+    100008: fzc_jiqi_muwen
+    100010: //RootNode
+    100012: qiaokeji-rubaise
+    100014: suoyanji_bl
+    100016: suoyanji_buxiugang
+    100018: suoyanji_heise_001
+    100020: suoyanji_heise_002
+    100022: suoyanji_tietu
+    100024: suoyanji_zhuozi_buxiugang
+    100026: suoyanjij_tietu_002
+    100028: "\u5BF9\u8C61050"
+    100030: "\u5BF9\u8C61051"
+    100032: "\u5BF9\u8C61054_002"
+    400000: ______050
+    400002: ______051
+    400004: ______054_002
+    400006: dgntt_lansejimian_01
+    400008: fzc_jiqi_muwen
+    400010: //RootNode
+    400012: qiaokeji-rubaise
+    400014: suoyanji_bl
+    400016: suoyanji_buxiugang
+    400018: suoyanji_heise_001
+    400020: suoyanji_heise_002
+    400022: suoyanji_tietu
+    400024: suoyanji_zhuozi_buxiugang
+    400026: suoyanjij_tietu_002
+    400028: "\u5BF9\u8C61050"
+    400030: "\u5BF9\u8C61051"
+    400032: "\u5BF9\u8C61054_002"
+    2300000: ______051
+    2300002: ______054_002
+    2300004: dgntt_lansejimian_01
+    2300006: fzc_jiqi_muwen
+    2300008: qiaokeji-rubaise
+    2300010: suoyanji_bl
+    2300012: suoyanji_buxiugang
+    2300014: suoyanji_heise_001
+    2300016: suoyanji_heise_002
+    2300018: suoyanji_tietu
+    2300020: suoyanji_zhuozi_buxiugang
+    2300022: suoyanjij_tietu_002
+    2300024: "\u5BF9\u8C61051"
+    2300026: "\u5BF9\u8C61054_002"
+    3300000: ______051
+    3300002: ______054_002
+    3300004: dgntt_lansejimian_01
+    3300006: fzc_jiqi_muwen
+    3300008: qiaokeji-rubaise
+    3300010: suoyanji_bl
+    3300012: suoyanji_buxiugang
+    3300014: suoyanji_heise_001
+    3300016: suoyanji_heise_002
+    3300018: suoyanji_tietu
+    3300020: suoyanji_zhuozi_buxiugang
+    3300022: suoyanjij_tietu_002
+    3300024: "\u5BF9\u8C61051"
+    3300026: "\u5BF9\u8C61054_002"
+    4300000: dgntt_lansejimian_01
+    4300002: suoyanji_zhuozi_buxiugang
+    4300004: suoyanji_bl
+    4300006: suoyanji_buxiugang
+    4300008: fzc_jiqi_muwen
+    4300010: qiaokeji-rubaise
+    4300012: ______054_002
+    4300014: ______051
+    4300016: suoyanjij_tietu_002
+    4300018: suoyanji_heise_001
+    4300020: suoyanji_heise_002
+    4300022: suoyanji_tietu
+    4300024: "\u5BF9\u8C61054_002"
+    4300026: "\u5BF9\u8C61051"
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: cd8c8bbda7d89b649b4d8f3d60bc86d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dgntt_lansejimian_01
+    second: {fileID: 2100000, guid: de3acaaed9ac9e04dbd7698f14bb33cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fzc_jiqi_muwen
+    second: {fileID: 2100000, guid: e9496ad3257bf214aae97822fa82aaf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pfi_heise
+    second: {fileID: 2100000, guid: 5af1f184df9a43248ab2a0741323d2a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pfj_buxiugang
+    second: {fileID: 2100000, guid: 1e223c415fb9e234eb9a9946b88c3cc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pingfengji_jishen
+    second: {fileID: 2100000, guid: 890b363002256a34e900541f1a767377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qiaokeji-rubaise
+    second: {fileID: 2100000, guid: 890b363002256a34e900541f1a767377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suoyanji_005_bl
+    second: {fileID: 2100000, guid: f1b5ac367f315d24eb4c84ae8adf6f42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suoyanji_buxiugang
+    second: {fileID: 2100000, guid: fc746ac21c1705e488eb4c6ac7a193de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suoyanji_heise
+    second: {fileID: 2100000, guid: 5af1f184df9a43248ab2a0741323d2a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suoyanji_tietu
+    second: {fileID: 2100000, guid: 170885f92014740468abb9041b3c919a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

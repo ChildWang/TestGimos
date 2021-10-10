@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: b805304554937dd4a8847af9efff6b0c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: fzc_shangxiuji
+    100002: fzc_shangxiuji_luoji
+    100004: fzc_sxj_yilou
+    100006: //RootNode
+    100008: sxj_baisejinshu_01
+    100010: sxj_buxiugang_01
+    100012: sxj_dianxian
+    100014: sxj_huisejinshu_01
+    100016: sxj_huisejinshu_02
+    100018: sxj_jishen_01
+    100020: sxj_jishen_02
+    100022: sxj_tiepian
+    100024: sxj_zaluande_01
+    100026: sxj_zhuojiao_heise
+    100028: sxj_zhuomian
+    100030: sxj_zhuotui
+    100032: sxj_jinshu_001
+    400000: fzc_shangxiuji
+    400002: fzc_shangxiuji_luoji
+    400004: fzc_sxj_yilou
+    400006: //RootNode
+    400008: sxj_baisejinshu_01
+    400010: sxj_buxiugang_01
+    400012: sxj_dianxian
+    400014: sxj_huisejinshu_01
+    400016: sxj_huisejinshu_02
+    400018: sxj_jishen_01
+    400020: sxj_jishen_02
+    400022: sxj_tiepian
+    400024: sxj_zaluande_01
+    400026: sxj_zhuojiao_heise
+    400028: sxj_zhuomian
+    400030: sxj_zhuotui
+    400032: sxj_jinshu_001
+    2300000: fzc_sxj_yilou
+    2300002: sxj_baisejinshu_01
+    2300004: sxj_buxiugang_01
+    2300006: sxj_dianxian
+    2300008: sxj_huisejinshu_01
+    2300010: sxj_huisejinshu_02
+    2300012: sxj_jishen_01
+    2300014: sxj_jishen_02
+    2300016: sxj_tiepian
+    2300018: sxj_zaluande_01
+    2300020: sxj_zhuojiao_heise
+    2300022: sxj_zhuomian
+    2300024: sxj_zhuotui
+    2300026: sxj_jinshu_001
+    3300000: fzc_sxj_yilou
+    3300002: sxj_baisejinshu_01
+    3300004: sxj_buxiugang_01
+    3300006: sxj_dianxian
+    3300008: sxj_huisejinshu_01
+    3300010: sxj_huisejinshu_02
+    3300012: sxj_jishen_01
+    3300014: sxj_jishen_02
+    3300016: sxj_tiepian
+    3300018: sxj_zaluande_01
+    3300020: sxj_zhuojiao_heise
+    3300022: sxj_zhuomian
+    3300024: sxj_zhuotui
+    3300026: sxj_jinshu_001
+    4300000: fzc_sxj_yilou
+    4300002: sxj_tiepian
+    4300004: sxj_zhuomian
+    4300006: sxj_zhuotui
+    4300008: sxj_zhuojiao_heise
+    4300010: sxj_baisejinshu_01
+    4300012: sxj_dianxian
+    4300014: sxj_jishen_02
+    4300016: sxj_huisejinshu_01
+    4300018: sxj_buxiugang_01
+    4300020: sxj_huisejinshu_02
+    4300022: sxj_zaluande_01
+    4300024: sxj_jishen_01
+    4300026: sxj_jinshu_001
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

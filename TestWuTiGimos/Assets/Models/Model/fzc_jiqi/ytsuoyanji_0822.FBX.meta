@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 713901be65480174a8f7c220caf26fec
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: fzc_bandeng_tui
+    100002: fzc_ytsy_bandeng_mian
+    100004: fzc_ytsyj
+    100006: fzc_ytsyj_luoji
+    100008: fzc_ytsyj_yilou
+    100010: pingtousyj_zhuomian
+    100012: pingtousyj_zhuotui
+    100014: yksyj_xian
+    100016: //RootNode
+    100018: ytsy_heise001
+    100020: ytsy_xian
+    100022: ytsyj_bl
+    100024: ytsyj_buxiugan
+    100026: ytsyj_diandongji
+    100028: ytsyj_heise
+    100030: ytsyj_jishen
+    100032: ytsyj_jixiang
+    100034: ytsyj_kaiguan
+    100036: ytsyj_kongzhiqi
+    100038: ytsyj_tie
+    400000: fzc_bandeng_tui
+    400002: fzc_ytsy_bandeng_mian
+    400004: fzc_ytsyj
+    400006: fzc_ytsyj_luoji
+    400008: fzc_ytsyj_yilou
+    400010: pingtousyj_zhuomian
+    400012: pingtousyj_zhuotui
+    400014: yksyj_xian
+    400016: //RootNode
+    400018: ytsy_heise001
+    400020: ytsy_xian
+    400022: ytsyj_bl
+    400024: ytsyj_buxiugan
+    400026: ytsyj_diandongji
+    400028: ytsyj_heise
+    400030: ytsyj_jishen
+    400032: ytsyj_jixiang
+    400034: ytsyj_kaiguan
+    400036: ytsyj_kongzhiqi
+    400038: ytsyj_tie
+    2300000: fzc_bandeng_tui
+    2300002: fzc_ytsy_bandeng_mian
+    2300004: fzc_ytsyj_yilou
+    2300006: pingtousyj_zhuomian
+    2300008: pingtousyj_zhuotui
+    2300010: yksyj_xian
+    2300012: ytsy_heise001
+    2300014: ytsy_xian
+    2300016: ytsyj_bl
+    2300018: ytsyj_buxiugan
+    2300020: ytsyj_diandongji
+    2300022: ytsyj_heise
+    2300024: ytsyj_jishen
+    2300026: ytsyj_jixiang
+    2300028: ytsyj_kaiguan
+    2300030: ytsyj_kongzhiqi
+    2300032: ytsyj_tie
+    3300000: fzc_bandeng_tui
+    3300002: fzc_ytsy_bandeng_mian
+    3300004: fzc_ytsyj_yilou
+    3300006: pingtousyj_zhuomian
+    3300008: pingtousyj_zhuotui
+    3300010: yksyj_xian
+    3300012: ytsy_heise001
+    3300014: ytsy_xian
+    3300016: ytsyj_bl
+    3300018: ytsyj_buxiugan
+    3300020: ytsyj_diandongji
+    3300022: ytsyj_heise
+    3300024: ytsyj_jishen
+    3300026: ytsyj_jixiang
+    3300028: ytsyj_kaiguan
+    3300030: ytsyj_kongzhiqi
+    3300032: ytsyj_tie
+    4300000: fzc_ytsyj_yilou
+    4300002: pingtousyj_zhuomian
+    4300004: fzc_ytsy_bandeng_mian
+    4300006: fzc_bandeng_tui
+    4300008: pingtousyj_zhuotui
+    4300010: ytsy_heise001
+    4300012: ytsyj_jixiang
+    4300014: ytsyj_diandongji
+    4300016: ytsyj_kaiguan
+    4300018: ytsy_xian
+    4300020: ytsyj_heise
+    4300022: ytsyj_bl
+    4300024: yksyj_xian
+    4300026: ytsyj_tie
+    4300028: ytsyj_kongzhiqi
+    4300030: ytsyj_buxiugan
+    4300032: ytsyj_jishen
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

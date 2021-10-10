@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 78e7d99c2eeeddb4395dbe12dda45ac1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: dzhyj_baisetiepi_002
+    100002: dzhyj_baisetiepi_01
+    100004: dzhyj_baisetiepi_02
+    100006: dzhyj_boli_01
+    100008: dzhyj_buxiugang_01
+    100010: dzhyj_shangbiao_01
+    100012: dzhyj_shangbiao_01 1
+    100014: dzhyj_tiepian_01
+    100016: dzhyj_tiepian_02
+    100018: //RootNode
+    100020: fzc_dzhyj_luoji
+    100022: fzc_dzhyj_yilou
+    100024: fzc_jiqi_bandeng_mian
+    100026: fzc_jiqi_bandeng_tui
+    100028: heisejinshu_gg_01
+    100030: heisejinshu_gg_02
+    100032: pfi_heise168
+    100034: tiepian_gg_01
+    100036: fzc_dzhyj
+    400000: dzhyj_baisetiepi_002
+    400002: dzhyj_baisetiepi_01
+    400004: dzhyj_baisetiepi_02
+    400006: dzhyj_boli_01
+    400008: dzhyj_buxiugang_01
+    400010: dzhyj_shangbiao_01
+    400012: dzhyj_shangbiao_01 1
+    400014: dzhyj_tiepian_01
+    400016: dzhyj_tiepian_02
+    400018: //RootNode
+    400020: fzc_dzhyj_luoji
+    400022: fzc_dzhyj_yilou
+    400024: fzc_jiqi_bandeng_mian
+    400026: fzc_jiqi_bandeng_tui
+    400028: heisejinshu_gg_01
+    400030: heisejinshu_gg_02
+    400032: pfi_heise168
+    400034: tiepian_gg_01
+    400036: fzc_dzhyj
+    2300000: dzhyj_baisetiepi_002
+    2300002: dzhyj_baisetiepi_01
+    2300004: dzhyj_baisetiepi_02
+    2300006: dzhyj_boli_01
+    2300008: dzhyj_buxiugang_01
+    2300010: dzhyj_shangbiao_01
+    2300012: dzhyj_shangbiao_01 1
+    2300014: dzhyj_tiepian_01
+    2300016: dzhyj_tiepian_02
+    2300018: fzc_dzhyj_yilou
+    2300020: fzc_jiqi_bandeng_mian
+    2300022: fzc_jiqi_bandeng_tui
+    2300024: heisejinshu_gg_01
+    2300026: heisejinshu_gg_02
+    2300028: pfi_heise168
+    2300030: tiepian_gg_01
+    3300000: dzhyj_baisetiepi_002
+    3300002: dzhyj_baisetiepi_01
+    3300004: dzhyj_baisetiepi_02
+    3300006: dzhyj_boli_01
+    3300008: dzhyj_buxiugang_01
+    3300010: dzhyj_shangbiao_01
+    3300012: dzhyj_shangbiao_01 1
+    3300014: dzhyj_tiepian_01
+    3300016: dzhyj_tiepian_02
+    3300018: fzc_dzhyj_yilou
+    3300020: fzc_jiqi_bandeng_mian
+    3300022: fzc_jiqi_bandeng_tui
+    3300024: heisejinshu_gg_01
+    3300026: heisejinshu_gg_02
+    3300028: pfi_heise168
+    3300030: tiepian_gg_01
+    4300000: tiepian_gg_01
+    4300002: dzhyj_boli_01
+    4300004: dzhyj_tiepian_02
+    4300006: dzhyj_buxiugang_01
+    4300008: heisejinshu_gg_01
+    4300010: dzhyj_shangbiao_01
+    4300012: dzhyj_baisetiepi_01
+    4300014: dzhyj_baisetiepi_002
+    4300016: dzhyj_shangbiao_01
+    4300018: fzc_jiqi_bandeng_mian
+    4300020: dzhyj_baisetiepi_02
+    4300022: pfi_heise168
+    4300024: fzc_jiqi_bandeng_tui
+    4300026: dzhyj_tiepian_01
+    4300028: heisejinshu_gg_02
+    4300030: fzc_dzhyj_yilou
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

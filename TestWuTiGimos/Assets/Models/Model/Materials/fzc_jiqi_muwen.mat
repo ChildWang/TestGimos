@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: fzc_jiqi_muwen
+  m_Shader: {fileID: 4, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: bd995f125ea400c4d9523b6a43591446, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: 1ccca85f93efb4dea90391656775d82d, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _LightMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ReflectionTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: 1
+      data:
+        first:
+          name: _globalInfluence
+        second: .982142866
+      data:
+        first:
+          name: _brightness
+        second: 1.64285707
+      data:
+        first:
+          name: _contrast
+        second: 1.16071427
+      data:
+        first:
+          name: _changeType
+        second: 0
+      data:
+        first:
+          name: _MirrorDistortion
+        second: 0
+      data:
+        first:
+          name: _reflect_blender
+        second: .375
+      data:
+        first:
+          name: _fresnel_ctrl
+        second: -1
+      data:
+        first:
+          name: _FresnelBias
+        second: .38142857
+      data:
+        first:
+          name: _SelectColorAlpha
+        second: 0
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .779411793, g: .779411793, b: .779411793, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .367647052, g: .367647052, b: .367647052, a: 1}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: .25, g: .25, b: .25, a: .501960814}
+      data:
+        first:
+          name: _SpecColor0
+        second: {r: .375, g: .375, b: .375, a: 1}
+      data:
+        first:
+          name: _lightmap_color
+        second: {r: .0808823705, g: .0808823705, b: .0808823705, a: 1}
+      data:
+        first:
+          name: _SelectColor
+        second: {r: .200000003, g: .600000024, b: .800000012, a: 0}
